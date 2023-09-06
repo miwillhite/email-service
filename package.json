@@ -1,0 +1,20 @@
+{
+  "name": "email-service",
+  "version": "1.0.0",
+  "description": "An email service with automatic failover",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Matt Willhite",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "express": "^4.18.2",
+    "html-to-text": "^9.0.5"
+  },
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
