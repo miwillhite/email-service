@@ -89,3 +89,4 @@ I had to look up some details around error handling patterns with the Fetch API 
 
 * Testing could be a bit more fleshed out, esp. around higher level tests and specs for the providers
 * Logging and error handling could be more robust (e.g. validate the providers)
+* Versioning: I personally (at the time of this writing) prefer header-based versioning, but it's not an hill I'm willing to die on
